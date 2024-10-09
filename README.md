@@ -193,10 +193,10 @@ The system workflow is as follows:
    - Perform post-flight checks and maintenance as needed.
 
 ## Circuit Diagram
-![Circuit Diagram](URL_TO_CIRCUIT_DIAGRAM_IMAGE)
+![Circuit Diagram](https://github.com/sakthivel3000/Wings-of-Relief/blob/main/apmfinal.png)
 
 ## Final Drone Image
-![Final Drone](URL_TO_FINAL_DRONE_IMAGE)
+![Final Drone](https://github.com/sakthivel3000/Wings-of-Relief/blob/main/drone.png?raw=true)
 
 ## Conclusion
 Wings of Relief aims to revolutionize medical supply delivery through innovative drone technology. With automated mission planning and real-time monitoring, we strive to enhance healthcare accessibility in remote areas, ensuring timely deliveries where they're needed most.
