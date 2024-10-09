@@ -195,7 +195,7 @@ The system workflow is as follows:
 ## Circuit Diagram
 ![Circuit Diagram](https://github.com/sakthivel3000/Wings-of-Relief/blob/main/apmfinal.png)
 
-## Final Drone Image
+## Drone Image
 ![Final Drone](https://github.com/sakthivel3000/Wings-of-Relief/blob/main/drone.png?raw=true)
 
 ## Conclusion
